@@ -104,7 +104,7 @@ some topics: women's writing;  Trollope and/vs Oliphant; comparison; gender and 
 + precarity reading
 + discussion and outline: Maya, Theo
 + close reading: Maya
-+ criticism summary: Theo
++ criticism summary: Theo, Nicole
 + seminar paper/reflection: Shaoni
 + break: Theo
 
@@ -118,8 +118,8 @@ six Barsetshire novels or the Carlingford novels as part of a single world?); ro
 + Eric Hayot, from *On Literary Worlds*
 + discussion and outline: Shaoni, Nicole
 + close reading: Maya
-+ criticism summary: Nicole, Theo
-+ seminar paper/reflection: Shaoni
++ criticism summary: Theo
++ seminar paper/reflection: Shaoni, Nicole
 + break: Nicole
 
 *Trip to PMA Designs for Different Futures exhibit Wednesday evening*
@@ -137,9 +137,9 @@ some topics:
 + Lit Lab Canon/Archive pamphlet
 + another autobio reading
 + discussion and outline: Maya, Theo
-+ close reading: Shaoni, Theory
++ close reading: Shaoni, Nicole
 + criticism summary: Theo
-+ seminar paper/reflection: Maya, Nicole
++ seminar paper/reflection: Maya, 
 + break: Maya
 
 #### Week 7, March 9: spring break (read *Villette*)
@@ -159,8 +159,8 @@ some topics: surveillance; realism and the occult; precarity; technology; gender
 +  take a look at the data and code for above article: https://github.com/tedunderwood/character
 + including this browsable interface that lets you explore the gendering of specific words: https://github.com/tedunderwood/character
 + discussion and outline: Shaoni, Nicole
-+ close reading: Shaoni
-+ criticism summary: Maya, Nicole
++ close reading: Shaoni, Nicole
++ criticism summary: Maya, 
 + seminar paper/reflection: Theo
 + break: Maya
 
@@ -233,7 +233,7 @@ some topics: sensation novel, gender and sexuality, surveillance, search and res
 + Ted Underwood, "Intro: Historical Contrast and the Prestige of Literary Culture" and "Chapter 6: Digital Humanities and the Future of Literary History" in *Why Literary Periods Mattered : Historical Contrast and the Prestige of English Studies*
 + Christina Sharpe, from *In the Wake*
 + discussion and outline: Maya, Theo
-+ close reading: Nicole
++ close reading: 
 + criticism summary: Maya
 + seminar paper/reflection: Theo
 + break: Shaoni
